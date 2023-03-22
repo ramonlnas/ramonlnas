@@ -1,7 +1,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramonlnas/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramonlnasdev@gmail.com)
 [![wakatime](https://wakatime.com/badge/user/af270bc6-e9b4-499e-b2ef-216b122c7fce.svg)](https://wakatime.com/@1de82326-e168-4347-8da2-0655cc0cbc91)
-<img align="right" width="400" height="250" alt="ed" src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4jx_gY5XBf64ev2QD4G5tN5nHzpjZtpRGnOCL0chOGpS"/>
+
 ### Hi there  👋
 - 🙋‍♂️ I'm Ramon Lopes                                                                 
 - 🇧🇷 Brazilian
