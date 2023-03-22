@@ -6,7 +6,7 @@
 - 🙋‍♂️ I'm Ramon Lopes                                                                 
 - 🇧🇷 Brazilian
 - 🎓 Full-Stack Developer by Driven Education
-- 📘 6th period of Telecommunications Engineering (5/10)
+- 📘 6th period of Telecommunications Engineering (6/10)
 
 ## 📝 Technologies and languages
 
