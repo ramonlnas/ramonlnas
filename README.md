@@ -50,7 +50,9 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonlnas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonlnas&show_icons=true&layout=compact&theme=radical)
 
-[![Ramon Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonlnas&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/leolucasguedes/github-readme-stats)
+[![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonlnas&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/ramonlnas/github-readme-stats)
+</div>
+
 </div>
