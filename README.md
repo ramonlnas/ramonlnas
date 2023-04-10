@@ -52,7 +52,6 @@
 
 ![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonlnas&show_icons=true&layout=compact&theme=radical)
 
-
-[![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonlnas&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/ramonlnas/github-readme-stats)
+![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonlnas&show_icons=true&theme=radical)
 
 </div>
